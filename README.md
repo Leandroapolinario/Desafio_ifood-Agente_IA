@@ -1,3 +1,9 @@
+Esse projeto é uma cópia da entrega do Gabriel Sanches(do qual fiz o fork do projeto), servindo apenas para testes, entendimento e desafios em cima deste projeto já consolidado.
+
+
+
+
+
 # 🍔 iFood GenAI Agent POC (RAG & Tool Calling)
 
 > **Prova de Conceito (POC)** de um agente autônomo para auxiliar na tomada de decisão de reembolsos e cancelamentos, combinando Inteligência Artificial Generativa com validações transacionais rígidas.
